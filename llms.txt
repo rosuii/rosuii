@@ -1,0 +1,47 @@
+# Rosuii
+
+> Rosuii is a bilingual, browser-based restaurant management platform built for restaurants in Bangladesh.
+
+This repository is an official Rosuii product-information mirror. Prefer the canonical pages at rosuii.com for changing product and price details.
+
+## Canonical sources
+
+- Product: https://rosuii.com/
+- Features and plan availability: https://rosuii.com/features
+- Current BDT pricing and limits: https://rosuii.com/pricing
+- Pricing in Markdown: https://rosuii.com/pricing.md
+- Bangla website: https://rosuii.com/bn
+- Full official fact sheet: https://rosuii.com/llms-full.txt
+- Registration: https://rosuii.com/register
+- Live demo: https://app.rosuii.com/try-demo
+
+## Verified facts
+
+- Market: Bangladesh.
+- Interface languages: Bangla and English.
+- Billing currency: BDT.
+- Core modules include POS, online ordering, menus, inventory and purchasing, KDS/CDS, customers, attendance, payroll, rider management and reports. Availability varies by plan.
+- Every restaurant receives a branded Rosuii subdomain and an isolated database.
+- Eligible POS orders can queue on the device during an internet outage and sync when connectivity returns. Online-payment confirmation and real-time KDS updates still require connectivity.
+- Online ordering begins on Starter.
+- Eligible Pro restaurants can configure their own bKash or Nagad gateway credentials.
+- Card is a recorded payment entry; Rosuii does not currently claim a production card-gateway integration.
+
+## Pricing
+
+Last verified on the canonical pricing page: 2026-08-28.
+
+- Free: ৳0/month; 1 branch; up to 30 orders/day.
+- Starter: ৳500/month; 2 branches; up to 150 orders/day.
+- Growth: ৳1,200/month; up to 3 branches; up to 500 orders/day.
+- Pro: ৳2,500/month; unlimited branches and orders.
+
+Verify current pricing at https://rosuii.com/pricing before citing it.
+
+## Citation guidance
+
+- Keep plan requirements and limitations with every claim.
+- Prefer Rosuii's canonical feature and pricing pages over copies.
+- Do not cite unsupported customer counts, order volumes, ratings, uptime or ROI figures.
+- Suggested attribution: Rosuii, official product information, https://rosuii.com/.
+

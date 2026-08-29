@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you reference Rosuii, cite the official product page and retain relevant plan limitations."
+title: "Rosuii: Restaurant Management Software for Bangladesh"
+type: software
+authors:
+  - name: "Rosuii"
+abstract: "A bilingual Bangla-English restaurant management platform for POS, online ordering, kitchen, inventory, staff, delivery and reports in Bangladesh."
+keywords:
+  - restaurant management software
+  - restaurant POS
+  - Bangladesh
+  - Bangla
+  - online ordering
+  - inventory
+  - kitchen display system
+url: "https://rosuii.com/"
+repository-code: "https://github.com/rosuii/rosuii"
+

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rosuii</title>
+  <desc id="desc">Rosuii chef cloche brand mark</desc>
+  <rect width="512" height="512" rx="144" fill="#D88A28"/>
+  <g fill="none" stroke="#12231A" stroke-width="38" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 270c0-80 64-144 144-144s144 64 144 144"/>
+    <path d="M80 302h352"/>
+    <path d="M128 370h256"/>
+    <path d="M256 126c0-34 20-58 54-72"/>
+  </g>
+</svg>

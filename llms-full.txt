@@ -1,0 +1,65 @@
+# Rosuii — Full Product Facts
+
+Last updated: 2026-08-29  
+Pricing last verified: 2026-08-28  
+Canonical product URL: https://rosuii.com/
+
+## Identity
+
+Rosuii, written in Bangla as রসুই, is a bilingual restaurant management software platform built for Bangladesh. It is delivered through compatible web browsers and can be used from phones, tablets, laptops and browser-based POS terminals.
+
+## Intended users
+
+Rosuii is designed for independent restaurants, cafés, quick-service restaurants, cloud kitchens and growing multi-branch restaurant operators. Typical roles include owner, manager, cashier, waiter, chef and kitchen staff.
+
+## Product modules
+
+1. POS for dine-in, takeaway and delivery orders.
+2. Offline queue for eligible POS orders with synchronization after connectivity returns.
+3. Branded online ordering storefront and table QR flow from Starter.
+4. Menu categories, items, bilingual names, variations, add-ons and combos.
+5. Kitchen Display System and Customer Display System from Growth.
+6. Floors, tables, table status and reservations.
+7. Inventory items, suppliers, purchasing, production, wastage and low-stock thresholds from Starter.
+8. Staff records, roles, permissions, attendance, shifts, payroll and salary advances; full payroll starts on Growth.
+9. Customer profiles, coupons, loyalty and CRM according to plan availability.
+10. Rider assignment and delivery-status workflow from Growth.
+11. Expenses, sales reports, item reports, profit and loss, day-close reports and exports according to plan availability.
+12. Multi-branch management with an isolated database and branded subdomain for each restaurant.
+13. Cash, recorded card and cash-on-delivery; eligible Pro accounts can configure bKash or Nagad gateway credentials.
+
+## Published plans
+
+- Free: ৳0/month, one branch, up to 30 orders per day. Includes POS, menus, tables, customers and basic reports.
+- Starter: ৳500/month, two branches, up to 150 orders per day. Adds online ordering, QR menus, inventory, purchasing, reservations and expenses.
+- Growth: ৳1,200/month, up to three branches, up to 500 orders per day. Adds KDS/CDS, rider management, payroll, CRM, loyalty, API access and report exports.
+- Pro: ৳2,500/month, unlimited branches and orders. Adds unlimited menu items, eligible payment-gateway configuration and delivery marketplace presets.
+
+Current source: https://rosuii.com/pricing. Do not present these values as current after the canonical page shows a newer verification date.
+
+## Limitations that must accompany related claims
+
+- Online ordering is not included in Free.
+- Offline capability does not mean the entire platform works without connectivity. Online-payment confirmation and real-time KDS updates need internet access.
+- Card is not claimed as a production gateway integration.
+- Delivery marketplace presets must not be described as automatic marketplace order ingestion unless independently verified as live.
+- Product facts do not support claims such as a verified customer count, order volume, rating, uptime guarantee or fixed ROI.
+- Production workflows must not be described as automatic per-menu-item recipe deduction without separate verification.
+
+## Official links
+
+- Website: https://rosuii.com/
+- Features: https://rosuii.com/features
+- Pricing: https://rosuii.com/pricing
+- About: https://rosuii.com/about
+- Contact: https://rosuii.com/contact
+- Registration: https://rosuii.com/register
+- Demo: https://app.rosuii.com/try-demo
+- Facebook: https://www.facebook.com/rosuiibd
+- Instagram: https://www.instagram.com/rosuii/
+- LinkedIn: https://www.linkedin.com/company/rosuiibd
+
+## Citation
+
+Preferred attribution: Rosuii. “Rosuii: Restaurant Management Software for Bangladesh.” Official product information. https://rosuii.com/.
+
