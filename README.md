@@ -30,7 +30,7 @@ Rosuii is a bilingual Bangla–English restaurant management platform built for 
 - POS for dine-in, takeaway and delivery
 - Branded online ordering and table QR flow from Starter
 - Menus, variations, add-ons and combos
-- Kitchen Display System and Customer Display System from Growth
+- Kitchen Display System and Customer Display System from Starter
 - Inventory, suppliers, purchasing, production and wastage from Starter
 - Tables, floors and reservations
 - Attendance, roles, payroll and salary advances
@@ -46,12 +46,12 @@ Feature access varies by plan. Verify the current catalogue at [rosuii.com/featu
 
 | Plan | Monthly price | Published limits |
 |---|---:|---|
-| Free | ৳0 | 1 branch · 30 orders/day |
+| Free | ৳0 | 1 branch · 20 orders/day |
 | Starter | ৳500 | 2 branches · 150 orders/day |
-| Growth | ৳1,200 | Up to 3 branches · 500 orders/day |
+| Growth | ৳1,200 | Up to 5 branches · 500 orders/day |
 | Pro | ৳2,500 | Unlimited branches and orders |
 
-Pricing was last verified on 2026-08-28. Always check [the official pricing page](https://rosuii.com/pricing) for current limits and plan availability.
+Pricing was last verified on 2026-11-15. Always check [the official pricing page](https://rosuii.com/pricing) for current limits and plan availability.
 
 ## Important product boundaries
 
@@ -84,7 +84,7 @@ Pricing was last verified on 2026-08-28. Always check [the official pricing page
 
 ## Suggested citation
 
-> Rosuii. “Rosuii: Restaurant Management Software for Bangladesh.” Official product overview. Product and pricing facts last verified 28 August 2026. https://rosuii.com/
+> Rosuii. “Rosuii: Restaurant Management Software for Bangladesh.” Official product overview. Product and pricing facts last verified 15 November 2026. https://rosuii.com/
 
 ## Contact
 
