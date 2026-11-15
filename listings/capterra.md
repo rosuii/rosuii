@@ -1,6 +1,6 @@
 # Capterra Listing Content — Rosuii
 
-Last verified: 2026-08-29  
+Last verified (plan facts): 2026-11-15  
 Submission owner: Rosuii team  
 Official pricing source: https://rosuii.com/pricing
 
@@ -38,7 +38,7 @@ Use **Restaurant Management Software** as the primary category if only one is al
 >
 > Every restaurant receives a branded Rosuii subdomain and an isolated database. Eligible POS orders can be queued on the device during an internet outage and synchronized when connectivity returns; real-time KDS updates and online-payment confirmation still require internet access.
 >
-> Rosuii offers Free, Starter, Growth and Pro plans in BDT. Online ordering begins on Starter, while KDS/CDS, payroll, loyalty and rider management begin on Growth. Eligible Pro restaurants can configure their own bKash or Nagad gateway credentials. Feature availability and limits vary by plan.
+> Rosuii offers Free, Starter, Growth and Pro plans in BDT. Online ordering, KDS and CDS begin on Starter, while payroll, loyalty and rider management begin on Growth. Eligible Pro restaurants can configure their own bKash or Nagad gateway credentials. Feature availability and limits vary by plan.
 
 ## Who uses Rosuii?
 
@@ -50,7 +50,7 @@ Use **Restaurant Management Software** as the primary category if only one is al
 - Give restaurant teams a Bangla or English interface.
 - Publish a branded direct-ordering storefront from Starter.
 - Track inventory, purchasing, production and wastage from Starter.
-- Coordinate kitchen displays, riders, payroll and loyalty from Growth.
+- Run kitchen and customer displays from Starter, and coordinate riders, payroll and loyalty from Growth.
 - Manage multiple branches under one account according to plan limits.
 - Keep each restaurant's operational data in an isolated database.
 - Use compatible browser-based devices without a single-vendor hardware lock-in.
@@ -79,7 +79,7 @@ Use **Restaurant Management Software** as the primary category if only one is al
 
 ## Pricing answer
 
-> A free plan is available at ৳0 for one branch and up to 30 orders per day. Published monthly plans are Starter at ৳500, Growth at ৳1,200 and Pro at ৳2,500. The official pricing page states that there is no setup fee. Limits and feature access vary by plan; verify current details at https://rosuii.com/pricing.
+> A free plan is available at ৳0 for one branch and up to 20 orders per day. Published monthly plans are Starter at ৳500, Growth at ৳1,200 and Pro at ৳2,500. The official pricing page states that there is no setup fee. Limits and feature access vary by plan; verify current details at https://rosuii.com/pricing.
 
 ## Support and onboarding answer
 
